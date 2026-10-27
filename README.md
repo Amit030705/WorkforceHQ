@@ -138,7 +138,7 @@ Open the following URLs:
 - Interactive API documentation: http://127.0.0.1:8000/docs
 - API health check: http://127.0.0.1:8000/health
 
-Sign in with the administrator you created. Add a department before adding employee accounts. The employee-create form asks the admin to provide a temporary password for that employee.
+Add a department before adding employee accounts. The employee-create form asks the admin to provide a temporary password for that employee.
 
 To stop the development server, press **Ctrl+C** in the server's PowerShell window.
 
